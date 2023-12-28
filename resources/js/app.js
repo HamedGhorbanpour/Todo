@@ -1,2 +1,2 @@
-import './bootstrap';
-
+require('./bootstrap');
+require("sweetalert");
